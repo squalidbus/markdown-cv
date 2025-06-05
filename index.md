@@ -1,91 +1,55 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alex Patterson
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alex Patterson | <a href="alx_ptn@pm.me">alx_ptn@pm.me</a>
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Data scientist with 2+ years of experience. My work has involved data linkage, natural language processing, machine learning, and data visualisation. Proven track record of implementing ML solutions that drive business outcomes, from customer identification systems to predictive models for sales opportunities. Strong academic foundation in statistics and research methodology combined with hands-on expertise in Python, PySpark, and DataBricks.
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Sbills
+- **Programming**: Python, PySpark, SQL, R
+- **Data Science**: Pandas, Numpy, DataBricks, Git, Matplotlib, Seaborn, MLLib, SpaCy
+- **Statistics**: Descriptive, Hypothesis Testing, Regression (Uni- and Multivariate)
 
 
-### Research interests
+## Professional Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Associate Data Scientist | The Access Group
+#### April 2024 - Present
+
+- Lead data linkage projects using Splink Python package to identify shared customers between Access and acquisitions
+- Developed Random Forest model in PySpark to predict Salesforce opportunity success rates
+- Integrated ChatGPT API for automated analysis and classification of customer support requests
+
+### Graduate Data Scientist | The Access Group
+#### October 2022 - April 2024
+- Use DataBricks to work with and manage data science projects
+- Implemented NLP system for automated support case categorisation
+- Created comprehensive learning materials for DataBricks, Python, Matplotlib, and Seaborn
+- Tutored placement students on PySpark and Python
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### MS Data Analytics and Society | University of Nottingham
+#### 2018 - 2022 | Merit
+- PhD research project (uncompleted): Mapping and predicting hate crime locations in Birmingham using spatial analytics
+- Advanced coursework in Python for Data Analysis and Visualisation
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### MSc Psychological Research Methods with Advanced Statistics | University of Nottingham
+#### 2017 - 2018 | Distinction
+- Modules: Regression Analysis (univariate & multivariate), Research Methodology and Ethics
+- Master's thesis: Structural equation modelling analysis of working memory structure using R
+- Research project: Systematic review of working memory and intelligence relationship in published literature
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### BSc Psychology | Queen's University Belfast
+#### 2014 - 2017 | First Class Honours
+- Modules: Basic Statistics (descriptive, hypothesis testing), SPSS statistical software
+- Dissertation: ANOVA analysis of empathy perception in virtual reality environments using SPSS
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2025 -->
 
 
